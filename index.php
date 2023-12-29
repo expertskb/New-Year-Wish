@@ -1,4 +1,9 @@
 <?php
+/*
+Author : Shakib Ahmed
+E-mail : shakibwap@yahoo.com
+WEB: https://shakib.eu.org
+*/
 define('SHAKIB', true);
 include_once('./config/init.php');
 
