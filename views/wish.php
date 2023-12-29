@@ -1,5 +1,11 @@
 <?php
 
+/*
+Author : Shakib Ahmed
+E-mail : shakibwap@yahoo.com
+WEB: https://shakib.eu.org
+*/
+
 $name = convert_de($name);
 
 ?>
