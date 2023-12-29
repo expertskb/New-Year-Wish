@@ -13,11 +13,11 @@ Happy New Year Name Wishing Script :100:
 
 Demo - <a href="https://newyear.live24ip.gq/" target="_blank">Demo</a>
 
-## BACKEND CREDIT
-SHAKIB AHMED
+## CREDIT
+BACKEND - <a href="https://github.com/expertskb/New-Year-Wish/">SHAKIB AHMED</a>
 
-## FRONT-END CREDIT
-https://github.com/mskian/happy-New-year-Wishing-web-app/
+FRONTEND - <a href="https://github.com/mskian/happy-New-year-Wishing-web-app/">MYSKIAN</a>
+
 
 - That's all Done - Happy Event :-) 
 
