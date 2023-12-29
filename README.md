@@ -7,7 +7,7 @@
 Happy New Year Name Wishing Script :100:
 
 - Bootstrap CSS (Frontend Framework)
-- PHP [PHP Version - 7.4 to 8.3 ]
+- PHP [PHP Version - 5.6 to High ]
 
 ## Demo
 
